@@ -33,8 +33,6 @@ I'm a developer and designer focused on turning complex logic into clean, functi
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,cpp,cs,php,mysql,mongodb,postgres,aws,figma&theme=dark" />
 </p>
 
----
-
 ## 🎧 Featured Playlist
 <table>
   <tr>
@@ -59,9 +57,9 @@ I'm a developer and designer focused on turning complex logic into clean, functi
       </a>
     </td>
     <td align="center">
-      <a href="https://www.youtube.com/watch?v=mcg4z1gGbEw">
-        <img src="https://img.youtube.com/vi/mcg4z1gGbEw/hqdefault.jpg" width="280" style="border-radius:10px; border: 2px solid #32CD32;" alt="T.I.">
-        <br><b>T.I. - LET 'EM KNOW</b>
+      <a href="https://www.youtube.com/watch?v=_3d6YkdTexI">
+        <img src="https://img.youtube.com/vi/_3d6YkdTexI/hqdefault.jpg" width="280" style="border-radius:10px; border: 2px solid #32CD32;" alt="Kanye West">
+        <br><b>Kanye West - Can't Tell Me Nothing</b>
       </a>
     </td>
   </tr>
