@@ -5,7 +5,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1&pause=1&color=32CD32&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%26+Designer&repeat=false&runonce=true" alt="Full Stack Web Developer & Designer" />
+  <a href="https://github.com/raolvera">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%26+Designer;Always+learning+new+things!" alt="Typing SVG"/>
+  </a>
 </p>
 
 <p align="center">
