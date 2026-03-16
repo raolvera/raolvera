@@ -10,6 +10,17 @@
   </a>
 </p>
 
+---
+
+## 🚀 About Me
+I'm a developer and designer focused on turning complex logic into clean, functional applications. I specialize in full-stack development and graphic design, building tools that businesses actually need.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,cpp,cs,php,mysql,mongodb,postgres,aws,figma&theme=dark" />
+</p>
+
+---
+
 <p align="center">
   <a href="https://linkedin.com/in/rey-olvera-766385246"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://youtube.com/@rebel_710"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
@@ -29,13 +40,6 @@
 </p>
 
 ---
-
-## 🚀 About Me
-I'm a developer and designer focused on turning complex logic into clean, functional applications. I specialize in full-stack development and graphic design, building tools that businesses actually need.
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,cpp,cs,php,mysql,mongodb,postgres,aws,figma&theme=dark" />
-</p>
 
 ## 🎧 Featured Playlist
 <table>
