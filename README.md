@@ -34,7 +34,13 @@ I'm a developer and designer focused on turning complex logic into clean, functi
 </p>
 
 ---
-
+## 🎧 Featured Track
+<a href="https://www.youtube.com/watch?v=0_u6R7_nO_8">
+  <img src="https://img.youtube.com/vi/0_u6R7_nO_8/0.jpg" width="400" style="border-radius:15px;" alt="50 Cent - God Gave Me Style">
+  <br>
+  <b>▶️ Click to play: 50 Cent - God Gave Me Style</b>
+</a>
+---
 ## ⚙️ My favorite tools and technologies
 
 <details>
