@@ -1,6 +1,10 @@
 <div align="center">
 
-<h1 align="center"><font color="#32CD32">Rey Olvera</font></h1>
+<h1 align="center">
+  <a href="https://github.com/raolvera">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=32CD32&center=true&vCenter=true&width=435&lines=Rey+Olvera" alt="Rey Olvera" />
+  </a>
+</h1>
 
 <a href="https://github.com/raolvera">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=32CD32&center=true&vCenter=true&width=435&lines=Web+Developer;Always+learning+new+things!" alt="Typing SVG" />
