@@ -32,16 +32,13 @@ I'm a developer and designer focused on turning complex logic into clean, functi
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,cpp,cs,php,mysql,mongodb,postgres,aws,figma&theme=dark" />
 </p>
-
 ---
-
-## 🎧 Currently Vibing To
+## 🎧 Now Playing
 <a href="https://www.youtube.com/watch?v=R0Tid5T-Q00">
-  <img src="https://i.ytimg.com/vi/R0Tid5T-Q00/hqdefault.jpg" width="450" style="border-radius:15px; border: 2px solid #32CD32;" alt="Now Playing">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnd6bmxyeHdqbmxyeHdqbmxyeHdqbmxyeHdqbmxyeHdqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/LDBuYzAqNI8yA/giphy.gif" width="450" style="border-radius:15px; border: 2px solid #32CD32;" alt="Music Animation">
   <br>
-  <b>▶️ Click to play: Gunna & Lil Baby - 9th Inning</b>
+  <b>🔊 Gunna & Lil Baby - 9th Inning (Click to listen)</b>
 </a>
-
 ---
 ## ⚙️ My favorite tools and technologies
 
