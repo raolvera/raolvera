@@ -5,7 +5,7 @@
 </h1>
 
 <a href="https://github.com/raolvera">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=32CD32&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer+&Designer;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=32CD32&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer+Designer;Always+learning+new+things!" alt="Typing SVG" />
 </a>
 
 <p align="center">
