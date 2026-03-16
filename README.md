@@ -34,36 +34,23 @@ I'm a developer and designer focused on turning complex logic into clean, functi
 </p>
 
 ## 🎧 Featured Playlist
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=phITXWICxlM">
-        <img src="https://img.youtube.com/vi/phITXWICxlM/hqdefault.jpg" width="280" style="border-radius:10px; border: 2px solid #32CD32;" alt="Ice Cube">
-        <br><b>Ice Cube - Until We Rich</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=cN4fNaUAMbA">
-        <img src="https://img.youtube.com/vi/cN4fNaUAMbA/hqdefault.jpg" width="280" style="border-radius:10px; border: 2px solid #32CD32;" alt="50 Cent">
-        <br><b>50 Cent - My Life</b>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=-T5I__Jdl3w">
-        <img src="https://img.youtube.com/vi/-T5I__Jdl3w/hqdefault.jpg" width="280" style="border-radius:10px; border: 2px solid #32CD32;" alt="Eminem">
-        <br><b>Eminem - 8 Mile</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=_3d6YkdTexI">
-        <img src="https://img.youtube.com/vi/_3d6YkdTexI/hqdefault.jpg" width="280" style="border-radius:10px; border: 2px solid #32CD32;" alt="Kanye West">
-        <br><b>Kanye West - Can't Tell Me Nothing</b>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=phITXWICxlM">
+    <img src="https://img.youtube.com/vi/phITXWICxlM/hqdefault.jpg" width="280" style="border-radius:10px; border: 2px solid #32CD32;" alt="Ice Cube">
+  </a>
+  <a href="https://www.youtube.com/watch?v=cN4fNaUAMbA">
+    <img src="https://img.youtube.com/vi/cN4fNaUAMbA/hqdefault.jpg" width="280" style="border-radius:10px; border: 2px solid #32CD32;" alt="50 Cent">
+  </a>
+  <a href="https://www.youtube.com/watch?v=-T5I__Jdl3w">
+    <img src="https://img.youtube.com/vi/-T5I__Jdl3w/hqdefault.jpg" width="280" style="border-radius:10px; border: 2px solid #32CD32;" alt="Eminem">
+  </a>
+  <a href="https://www.youtube.com/watch?v=_3d6YkdTexI">
+    <img src="https://img.youtube.com/vi/_3d6YkdTexI/hqdefault.jpg" width="280" style="border-radius:10px; border: 2px solid #32CD32;" alt="Kanye West">
+  </a>
+</p>
+<p align="center">
+  <b>Ice Cube</b> | <b>50 Cent</b> | <b>Eminem</b> | <b>Kanye West</b>
+</p>
 
 ---
 
