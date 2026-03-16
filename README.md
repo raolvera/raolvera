@@ -39,7 +39,7 @@ I'm a developer and designer focused on turning complex logic into clean, functi
 <a href="https://www.youtube.com/watch?v=mcg4z1gGbEw">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJndnd6bmxyeHdqbmxyeHdqbmxyeHdqbmxyeHdqbmxyeHdqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/LDBuYzAqNI8yA/giphy.gif" width="450" style="border-radius:15px; border: 2px solid #32CD32;" alt="T.I. Let Em Know">
   <br>
-  <b>🔊 T.I. - LET 'EM KNOW (Click to play)</b>
+  <b>🔊 T.I. - LET 'EM KNOW (Click to Play)</b>
 </a>
 
 ---
