@@ -17,6 +17,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=raolvera&theme=tokyonight&margin-w=15&column=7&no-bg=true" alt="Trophies" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=raolvera&label=VISITORS&style=for-the-badge&color=32CD32" alt="Visitors">
 </p>
 
@@ -81,6 +85,15 @@ If it needs to be online and it needs to work perfectly, I’m building it.
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/-Creative%20Cloud-DA1F26?style=flat&logo=adobe-creative-cloud&logoColor=white" />
 </details>
+
+---
+
+## 🎧 Latest Vibes & Activity
+<p align="center">
+  <a href="https://youtube.com/@rebel_710">
+    <img src="https://github-readme-youtube-cards.vercel.app/?channelId=rebel_710&layout=compact&theme=tokyonight&title_color=32CD32" alt="Latest YouTube Video" />
+  </a>
+</p>
 
 ---
 
