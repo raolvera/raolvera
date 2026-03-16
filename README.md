@@ -27,9 +27,11 @@
 ---
 
 ## 🚀 About Me
-I build for the web. I'm a developer and designer focused on turning complex logic into clean, functional applications. I don't just write code—I build the tools and interfaces that businesses actually need to grow.
+I'm a developer and designer focused on turning complex logic into clean, functional applications. I specialize in full-stack development and graphic design, building tools that businesses actually need.
 
-I specialize in full-stack development and graphic design, working across the entire stack to create everything from custom web apps to visual identities. If it needs to be online and it needs to work perfectly, I’m building it.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,cpp,cs,php,mysql,mongodb,postgres,aws,figma&theme=dark" />
+</p>
 
 ---
 
