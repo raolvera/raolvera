@@ -147,6 +147,14 @@ I'm a developer and designer focused on turning complex logic into clean, functi
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=raolvera&theme=tokyo-night&color=32CD32)
 
 ---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=raolvera&theme=tokyonight&no-frame=true&margin-w=15" alt="raolvera Trophies" />
+</p>
+
+---
+
 ## 📚 Tech Stack Docs
 | <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/></a> | <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/></a> | <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/></a> | <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/></a> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
