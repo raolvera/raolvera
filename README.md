@@ -37,7 +37,7 @@ I'm a developer and designer focused on turning complex logic into clean, functi
 
 ## 🎧 Currently Vibing To
 <a href="https://www.youtube.com/watch?v=R0Tid5T-Q00">
-  <img src="https://img.youtube.com/vi/R0Tid5T-Q00/maxresdefault.jpg" width="450" style="border-radius:15px; border: 2px solid #32CD32;" alt="Now Playing: Gunna & Lil Baby">
+  <img src="https://i.ytimg.com/vi/R0Tid5T-Q00/hqdefault.jpg" width="450" style="border-radius:15px; border: 2px solid #32CD32;" alt="Now Playing">
   <br>
   <b>▶️ Click to play: Gunna & Lil Baby - 9th Inning</b>
 </a>
