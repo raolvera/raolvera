@@ -27,13 +27,11 @@
 ---
 
 ## 🚀 About Me
-I build for the web. I'm a developer and designer focused on turning complex logic into clean, functional applications. I don't just write code—I build the tools and interfaces that businesses actually need to grow.
-
-I specialize in full-stack development and graphic design, working across the entire stack to create everything from custom web apps to visual identities. If it needs to be online and it needs to work perfectly, I’m building it.
+I'm a developer and designer focused on turning complex logic into clean, functional applications. I don't just write code I build for the web. I build the tools and interfaces that businesses actually need to grow. I specialize in full-stack development and graphic design, working across the entire stack to create everything from custom web apps to visual identities. If it needs to be online and it needs to work perfectly, I’m building it.
 
 ---
 
-## ⚙️ My favorite tools and technologies
+## ⚙️ My Tavorite Tools and Technologies
 
 <details>
   <summary><b>💻 Programming Languages</b></summary>
