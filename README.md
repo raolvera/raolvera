@@ -35,11 +35,19 @@ I'm a developer and designer focused on turning complex logic into clean, functi
 
 ---
 
-## 🎧 Featured Track
-<a href="https://www.youtube.com/watch?v=mcg4z1gGbEw">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJndnd6bmxyeHdqbmxyeHdqbmxyeHdqbmxyeHdqbmxyeHdqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/LDBuYzAqNI8yA/giphy.gif" width="450" style="border-radius:15px; border: 2px solid #32CD32;" alt="T.I. Let Em Know">
+## 🎧 Featured Tracks
+<a href="https://www.youtube.com/watch?v=phITXWICxlM">
+  <img src="https://img.youtube.com/vi/phITXWICxlM/hqdefault.jpg" width="450" style="border-radius:15px; border: 2px solid #32CD32;" alt="Ice Cube - Until We Rich">
   <br>
-  <b>🔊 T.I. - LET 'EM KNOW (Click to Play)</b>
+  <b>🔊 Ice Cube - Until We Rich ft. Krayzie Bone (Click to play)</b>
+</a>
+
+<br>
+
+<a href="https://www.youtube.com/watch?v=mcg4z1gGbEw">
+  <img src="https://img.youtube.com/vi/mcg4z1gGbEw/hqdefault.jpg" width="450" style="border-radius:15px; border: 2px solid #32CD32;" alt="T.I. - LET 'EM KNOW">
+  <br>
+  <b>🔊 T.I. - LET 'EM KNOW (Click to play)</b>
 </a>
 
 ---
