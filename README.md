@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=32CD32&center=true&vCenter=true&width=435&lines=Rey+Olvera" alt="Rey Olvera" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=1&pause=1&color=32CD32&center=true&vCenter=true&width=435&lines=Rey+Olvera" alt="Rey Olvera" />
 </h1>
 
 <a href="https://github.com/raolvera">
