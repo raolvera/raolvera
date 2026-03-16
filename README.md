@@ -7,13 +7,27 @@
 </a>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rey-olvera-766385246"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://youtube.com/@rebel_710"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://facebook.com/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://threads.net/"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/></a>
-  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://x.com/ReyOlvera520"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://raolvera.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://counter.dev/r/linkedin/raolvera/https://linkedin.com/in/rey-olvera-766385246">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://counter.dev/r/youtube/raolvera/https://youtube.com/@rebel_710">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://counter.dev/r/facebook/raolvera/https://facebook.com/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://counter.dev/r/threads/raolvera/https://threads.net/">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
+  </a>
+  <a href="https://counter.dev/r/instagram/raolvera/https://instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://counter.dev/r/x/raolvera/https://x.com/ReyOlvera520">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://counter.dev/r/portfolio/raolvera/https://raolvera.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 <p align="center">
