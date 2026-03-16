@@ -115,13 +115,28 @@ I'm a developer and designer focused on turning complex logic into clean, functi
 ---
 
 ## 📘 Top Projects
-<p align="center">
-  <a href="https://github.com/raolvera/StreetTacos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=StreetTacos&theme=tokyonight&title_color=32CD32" /></a>
-  <a href="https://github.com/raolvera/Pokedex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=Pokedex&theme=tokyonight&title_color=32CD32" /></a>
-  <br>
-  <a href="https://github.com/raolvera/MatchingGame"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=MatchingGame&theme=tokyonight&title_color=32CD32" /></a>
-  <a href="https://github.com/raolvera/WunderlustMajorca"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=WunderlustMajorca&theme=tokyonight&title_color=32CD32" /></a>
-</p>
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/raolvera/StreetTacos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=StreetTacos&theme=tokyonight&title_color=32CD32" /></a>
+      <p><b>Street Tacos:</b> A full-stack ordering system for local street food vendors.</p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/raolvera/Pokedex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=Pokedex&theme=tokyonight&title_color=32CD32" /></a>
+      <p><b>Pokedex:</b> A searchable Pokémon API built for collectors and enthusiasts.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/raolvera/MatchingGame"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=MatchingGame&theme=tokyonight&title_color=32CD32" /></a>
+      <p><b>Matching Game:</b> A fast-paced UI challenge to test memory and logic.</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/raolvera/WunderlustMajorca"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=WunderlustMajorca&theme=tokyonight&title_color=32CD32" /></a>
+      <p><b>Wunderlust Majorca:</b> A dedicated travel website designed for exploring destinations.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
