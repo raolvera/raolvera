@@ -10,8 +10,6 @@
   </a>
 </p>
 
----
-
 ## 🚀 About Me
 I'm a developer and designer focused on turning complex logic into clean, functional applications. I specialize in full-stack development and graphic design, building tools that businesses actually need.
 
