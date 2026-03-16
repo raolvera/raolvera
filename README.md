@@ -35,20 +35,37 @@ I'm a developer and designer focused on turning complex logic into clean, functi
 
 ---
 
-## 🎧 Featured Tracks
-<a href="https://www.youtube.com/watch?v=phITXWICxlM">
-  <img src="https://img.youtube.com/vi/phITXWICxlM/hqdefault.jpg" width="450" style="border-radius:15px; border: 2px solid #32CD32;" alt="Ice Cube - Until We Rich">
-  <br>
-  <b>🔊 Ice Cube - Until We Rich ft. Krayzie Bone (Click to play)</b>
-</a>
-
-<br>
-
-<a href="https://www.youtube.com/watch?v=mcg4z1gGbEw">
-  <img src="https://img.youtube.com/vi/mcg4z1gGbEw/hqdefault.jpg" width="450" style="border-radius:15px; border: 2px solid #32CD32;" alt="T.I. - LET 'EM KNOW">
-  <br>
-  <b>🔊 T.I. - LET 'EM KNOW (Click to play)</b>
-</a>
+## 🎧 Featured Playlist
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=phITXWICxlM">
+        <img src="https://img.youtube.com/vi/phITXWICxlM/hqdefault.jpg" width="280" style="border-radius:10px; border: 2px solid #32CD32;" alt="Ice Cube">
+        <br><b>Ice Cube - Until We Rich</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=cN4fNaUAMbA">
+        <img src="https://img.youtube.com/vi/cN4fNaUAMbA/hqdefault.jpg" width="280" style="border-radius:10px; border: 2px solid #32CD32;" alt="50 Cent">
+        <br><b>50 Cent - My Life</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=-T5I__Jdl3w">
+        <img src="https://img.youtube.com/vi/-T5I__Jdl3w/hqdefault.jpg" width="280" style="border-radius:10px; border: 2px solid #32CD32;" alt="Eminem">
+        <br><b>Eminem - 8 Mile</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=mcg4z1gGbEw">
+        <img src="https://img.youtube.com/vi/mcg4z1gGbEw/hqdefault.jpg" width="280" style="border-radius:10px; border: 2px solid #32CD32;" alt="T.I.">
+        <br><b>T.I. - LET 'EM KNOW</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
