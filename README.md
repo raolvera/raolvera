@@ -1,5 +1,5 @@
 <div align="center">
-
+---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=1&pause=1&color=32CD32&center=true&vCenter=true&width=435&lines=Rey+Olvera&repeat=false&runonce=true" alt="Rey Olvera" />
   <br>
