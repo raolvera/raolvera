@@ -27,12 +27,17 @@
 ---
 
 ## 🚀 About Me
-I'm a developer and designer focused on turning complex logic into clean, functional applications. I don't just write code I build for the web. I build the tools and interfaces that businesses actually need to grow. I specialize in full-stack development and graphic design, working across the entire stack to create everything from custom web apps to visual identities. 
+I'm a developer and designer focused on turning complex logic into clean, functional applications. I don't just write code—I build for the web. I build the tools and interfaces that businesses actually need to grow. I specialize in full-stack development and graphic design, working across the entire stack to create everything from custom web apps to visual identities. 
+
 If it needs to be online and it needs to work perfectly, I’m building it.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,cpp,cs,php,mysql,mongodb,postgres,aws,figma&theme=dark" />
+</p>
 
 ---
 
-## ⚙️ My Tavorite Tools and Technologies
+## ⚙️ My Favorite Tools and Technologies
 
 <details>
   <summary><b>💻 Programming Languages</b></summary>
@@ -99,8 +104,12 @@ If it needs to be online and it needs to work perfectly, I’m building it.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raolvera&theme=tokyonight&stroke=32CD32&fire=32CD32&ring=32CD32" alt="GitHub Streak" />
 </p>
 
-### 📈 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=raolvera&theme=tokyo-night&color=32CD32)
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raolvera/raolvera/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raolvera/raolvera/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/raolvera/raolvera/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
