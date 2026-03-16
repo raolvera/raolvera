@@ -32,14 +32,18 @@ I'm a developer and designer focused on turning complex logic into clean, functi
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,cpp,cs,php,mysql,mongodb,postgres,aws,figma&theme=dark" />
 </p>
+
 ---
-## 🎧 Now Playing
-<a href="https://www.youtube.com/watch?v=R0Tid5T-Q00">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnd6bmxyeHdqbmxyeHdqbmxyeHdqbmxyeHdqbmxyeHdqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/LDBuYzAqNI8yA/giphy.gif" width="450" style="border-radius:15px; border: 2px solid #32CD32;" alt="Music Animation">
+
+## 🎧 Featured Track
+<a href="https://www.youtube.com/watch?v=mcg4z1gGbEw">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJndnd6bmxyeHdqbmxyeHdqbmxyeHdqbmxyeHdqbmxyeHdqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/LDBuYzAqNI8yA/giphy.gif" width="450" style="border-radius:15px; border: 2px solid #32CD32;" alt="T.I. Let Em Know">
   <br>
-  <b>🔊 Gunna & Lil Baby - 9th Inning (Click to listen)</b>
+  <b>🔊 T.I. - LET 'EM KNOW (Click to play)</b>
 </a>
+
 ---
+
 ## ⚙️ My favorite tools and technologies
 
 <details>
