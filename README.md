@@ -8,15 +8,12 @@
 <p align="center">
   <a href="https://linkedin.com/in/rey-olvera-766385246"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://youtube.com/@rebel_710"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://x.com/ReyOlvera520"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://raolvera.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/YouTube_Subs-32CD32?style=flat-square&logo=youtube&logoColor=white" alt="YouTube Subs">
-  <img src="https://img.shields.io/badge/YouTube_Views-32CD32?style=flat-square&logo=youtube&logoColor=white" alt="YouTube Views">
-  <img src="https://img.shields.io/github/stars/raolvera?style=flat-square&color=32CD32" alt="GitHub Stars">
-  <img src="https://img.shields.io/github/followers/raolvera?style=flat-square&color=32CD32" alt="Followers">
-  <img src="https://komarev.com/ghpvc/?username=raolvera&label=VISITORS&style=flat-square&color=32CD32" alt="Visitors">
+  <img src="https://komarev.com/ghpvc/?username=raolvera&label=VISITORS&style=for-the-badge&color=32CD32" alt="Visitors">
 </p>
 
 <p align="center">
@@ -32,8 +29,32 @@ I specialize in full-stack development and graphic design, working across the en
 
 ---
 
-## ⚙️ My favorite tools and technologies
+## 📘 Top Projects
+<p align="center">
+  <a href="https://github.com/raolvera/StreetTacos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=StreetTacos&theme=tokyonight&title_color=32CD32" /></a>
+  <a href="https://github.com/raolvera/Pokedex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=Pokedex&theme=tokyonight&title_color=32CD32" /></a>
+  <br>
+  <a href="https://github.com/raolvera/MatchingGame"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=MatchingGame&theme=tokyonight&title_color=32CD32" /></a>
+  <a href="https://github.com/raolvera/WunderlustMajorca"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=WunderlustMajorca&theme=tokyonight&title_color=32CD32" /></a>
+</p>
 
+---
+
+## 📊 Stats and Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raolvera&show_icons=true&theme=tokyonight&icon_color=32CD32&text_color=ffffff&title_color=32CD32" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raolvera&layout=compact&theme=tokyonight&text_color=ffffff&title_color=32CD32" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raolvera&theme=tokyonight&stroke=32CD32&fire=32CD32&ring=32CD32" alt="GitHub Streak" />
+</p>
+
+### 📈 Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=raolvera&theme=tokyo-night&color=32CD32)
+
+---
+
+## ⚙️ Tools and Technologies
 <details>
   <summary><b>💻 Programming Languages</b></summary>
   <br>
@@ -74,31 +95,6 @@ I specialize in full-stack development and graphic design, working across the en
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/-Creative%20Cloud-DA1F26?style=flat&logo=adobe-creative-cloud&logoColor=white" />
 </details>
-
----
-
-## 📘 Top Projects
-<p align="center">
-  <a href="https://github.com/raolvera/StreetTacos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=StreetTacos&theme=tokyonight&title_color=32CD32" /></a>
-  <a href="https://github.com/raolvera/Pokedex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=Pokedex&theme=tokyonight&title_color=32CD32" /></a>
-  <br>
-  <a href="https://github.com/raolvera/MatchingGame"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=MatchingGame&theme=tokyonight&title_color=32CD32" /></a>
-  <a href="https://github.com/raolvera/WunderlustMajorca"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=WunderlustMajorca&theme=tokyonight&title_color=32CD32" /></a>
-</p>
-
----
-
-## 📊 Stats and Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raolvera&show_icons=true&theme=tokyonight&icon_color=32CD32&text_color=ffffff&title_color=32CD32" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raolvera&layout=compact&theme=tokyonight&text_color=ffffff&title_color=32CD32" alt="Top Languages" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raolvera&theme=tokyonight&stroke=32CD32&fire=32CD32&ring=32CD32" alt="GitHub Streak" />
-</p>
-
-### 📈 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=raolvera&theme=tokyo-night&color=32CD32)
 
 ---
 
