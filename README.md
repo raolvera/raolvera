@@ -29,32 +29,8 @@ I specialize in full-stack development and graphic design, working across the en
 
 ---
 
-## 📘 Top Projects
-<p align="center">
-  <a href="https://github.com/raolvera/StreetTacos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=StreetTacos&theme=tokyonight&title_color=32CD32" /></a>
-  <a href="https://github.com/raolvera/Pokedex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=Pokedex&theme=tokyonight&title_color=32CD32" /></a>
-  <br>
-  <a href="https://github.com/raolvera/MatchingGame"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=MatchingGame&theme=tokyonight&title_color=32CD32" /></a>
-  <a href="https://github.com/raolvera/WunderlustMajorca"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=WunderlustMajorca&theme=tokyonight&title_color=32CD32" /></a>
-</p>
+## ⚙️ My favorite tools and technologies
 
----
-
-## 📊 Stats and Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raolvera&show_icons=true&theme=tokyonight&icon_color=32CD32&text_color=ffffff&title_color=32CD32" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raolvera&layout=compact&theme=tokyonight&text_color=ffffff&title_color=32CD32" alt="Top Languages" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raolvera&theme=tokyonight&stroke=32CD32&fire=32CD32&ring=32CD32" alt="GitHub Streak" />
-</p>
-
-### 📈 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=raolvera&theme=tokyo-night&color=32CD32)
-
----
-
-## ⚙️ Tools and Technologies
 <details>
   <summary><b>💻 Programming Languages</b></summary>
   <br>
@@ -95,6 +71,31 @@ I specialize in full-stack development and graphic design, working across the en
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/-Creative%20Cloud-DA1F26?style=flat&logo=adobe-creative-cloud&logoColor=white" />
 </details>
+
+---
+
+## 📘 Top Projects
+<p align="center">
+  <a href="https://github.com/raolvera/StreetTacos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=StreetTacos&theme=tokyonight&title_color=32CD32" /></a>
+  <a href="https://github.com/raolvera/Pokedex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=Pokedex&theme=tokyonight&title_color=32CD32" /></a>
+  <br>
+  <a href="https://github.com/raolvera/MatchingGame"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=MatchingGame&theme=tokyonight&title_color=32CD32" /></a>
+  <a href="https://github.com/raolvera/WunderlustMajorca"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=WunderlustMajorca&theme=tokyonight&title_color=32CD32" /></a>
+</p>
+
+---
+
+## 📊 Stats and Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raolvera&show_icons=true&theme=tokyonight&icon_color=32CD32&text_color=ffffff&title_color=32CD32" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raolvera&layout=compact&theme=tokyonight&text_color=ffffff&title_color=32CD32" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raolvera&theme=tokyonight&stroke=32CD32&fire=32CD32&ring=32CD32" alt="GitHub Streak" />
+</p>
+
+### 📈 Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=raolvera&theme=tokyo-night&color=32CD32)
 
 ---
 
