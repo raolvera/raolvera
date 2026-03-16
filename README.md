@@ -10,13 +10,6 @@
   </a>
 </p>
 
-## 🚀 About Me
-I'm a developer and designer focused on turning complex logic into clean, functional applications. I specialize in full-stack development and graphic design, building tools that businesses actually need.
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,cpp,cs,php,mysql,mongodb,postgres,aws,figma&theme=dark" />
-</p>
-
 ---
 
 <p align="center">
@@ -31,6 +24,13 @@ I'm a developer and designer focused on turning complex logic into clean, functi
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raolvera&label=VISITORS&style=for-the-badge&color=32CD32" alt="Visitors">
+</p>
+
+## 🚀 About Me
+I'm a developer and designer focused on turning complex logic into clean, functional applications. I specialize in full-stack development and graphic design, building tools that businesses actually need.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,cpp,cs,php,mysql,mongodb,postgres,aws,figma&theme=dark" />
 </p>
 
 <p align="center">
