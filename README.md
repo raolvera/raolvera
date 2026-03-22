@@ -1,6 +1,4 @@
 <div align="center">
-  
----
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=1&pause=1&color=32CD32&center=true&vCenter=true&width=435&lines=Rey+Olvera&repeat=false&runonce=true" alt="Rey Olvera" />
@@ -23,7 +21,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raolvera&label=VISITORS&style=for-the-badge&color=32CD32" alt="Visitors">
 </p>
-
 
 ## 🚀 About Me
 I'm a developer and designer focused on turning complex logic into clean, functional applications. I specialize in full-stack development and graphic design, building tools that businesses actually need.
@@ -88,7 +85,6 @@ I'm a developer and designer focused on turning complex logic into clean, functi
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite&logoColor=white" />
 </details>
 
 <details>
@@ -104,6 +100,7 @@ I'm a developer and designer focused on turning complex logic into clean, functi
 <details>
   <summary><b>🗄️ Databases</b></summary>
   <br>
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
@@ -124,7 +121,7 @@ I'm a developer and designer focused on turning complex logic into clean, functi
 ## 📘 Top Projects
 <p align="center">
   <a href="https://github.com/raolvera/StreetTacos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=StreetTacos&theme=tokyonight&title_color=32CD32" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=StreetTacos&theme=tokyonight&title_color=32CD32&show_owner=true&description=true" />
   </a>
   <a href="https://github.com/raolvera/Pokedex">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=Pokedex&theme=tokyonight&title_color=32CD32" />
@@ -157,7 +154,9 @@ I'm a developer and designer focused on turning complex logic into clean, functi
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raolvera&theme=tokyonight&no-frame=true&margin-w=15" alt="raolvera Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=raolvera&theme=tokyonight&no-frame=false&margin-w=15" alt="raolvera Trophies" />
+  </a>
 </p>
 
 ---
@@ -170,7 +169,5 @@ I'm a developer and designer focused on turning complex logic into clean, functi
 | C | C++ | C# | PHP | Node.js | MySQL |
 | <a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="45" height="45"/></a> | <a href="https://www.npmjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="45" height="45"/></a> | <a href="https://www.nvidia.com/"><img src="https://cdn.simpleicons.org/nvidia/76B900" width="45" height="45"/></a> | <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/></a> | <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45" height="45"/></a> | <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/></a> |
 | .NET | NPM | Nvidia | Bootstrap | Figma | Git |
-
----
 
 </div>
