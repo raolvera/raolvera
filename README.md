@@ -22,12 +22,15 @@
   <img src="https://komarev.com/ghpvc/?username=raolvera&label=VISITORS&style=for-the-badge&color=32CD32" alt="Visitors">
 </p>
 
-## 🚀 About Me
+<details open>
+<summary><b>🚀 About Me</b></summary>
+<br>
 I'm a developer and designer focused on turning complex logic into clean, functional applications. I specialize in full-stack development and graphic design, building tools that businesses actually need.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,cpp,cs,php,mysql,mongodb,postgres,aws,figma&theme=dark" />
 </p>
+</details>
 
 ---
 
@@ -37,7 +40,9 @@ I'm a developer and designer focused on turning complex logic into clean, functi
 
 ---
 
-## 🎧 Featured Playlist
+<details>
+<summary><b>🎧 Featured Playlist</b></summary>
+<br>
 <table>
   <tr>
     <td align="center">
@@ -68,11 +73,13 @@ I'm a developer and designer focused on turning complex logic into clean, functi
     </td>
   </tr>
 </table>
+</details>
 
 ---
 
-## ⚙️ My Favorite Tools and Technologies
-
+<details>
+<summary><b>⚙️ My Favorite Tools and Technologies</b></summary>
+<br>
 <details>
   <summary><b>💻 Programming Languages</b></summary>
   <br>
@@ -115,13 +122,16 @@ I'm a developer and designer focused on turning complex logic into clean, functi
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/-Creative%20Cloud-DA1F26?style=flat&logo=adobe-creative-cloud&logoColor=white" />
 </details>
+</details>
 
 ---
 
-## 📘 Top Projects
+<details>
+<summary><b>📘 Top Projects</b></summary>
+<br>
 <p align="center">
   <a href="https://github.com/raolvera/StreetTacos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=StreetTacos&theme=tokyonight&title_color=32CD32&show_owner=true&description=true" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=StreetTacos&theme=tokyonight&title_color=32CD32&description=true" height="150" />
   </a>
   &nbsp;
   <a href="https://github.com/raolvera/Pokedex">
@@ -137,10 +147,13 @@ I'm a developer and designer focused on turning complex logic into clean, functi
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=WunderlustMajorca&theme=tokyonight&title_color=32CD32" height="150" />
   </a>
 </p>
+</details>
 
 ---
 
-## 📊 Stats and Activity
+<details>
+<summary><b>📊 Stats and Activity</b></summary>
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raolvera&show_icons=true&theme=tokyonight&icon_color=32CD32&text_color=ffffff&title_color=32CD32" alt="GitHub Stats" />
   <br>
@@ -151,12 +164,13 @@ I'm a developer and designer focused on turning complex logic into clean, functi
 
 ### 📈 Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=raolvera&theme=tokyo-night&color=32CD32)
+</details>
 
 ---
 
----
-
-## 🛠️ Technical Proficiency
+<details>
+<summary><b>🛠️ Technical Proficiency</b></summary>
+<br>
 | <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/></a> | <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/></a> | <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/></a> | <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/></a> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | HTML | CSS | JavaScript | React | Python | Java |
@@ -164,5 +178,6 @@ I'm a developer and designer focused on turning complex logic into clean, functi
 | C | C++ | C# | PHP | Node.js | MySQL |
 | <a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="45" height="45"/></a> | <a href="https://www.npmjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="45" height="45"/></a> | <a href="https://www.nvidia.com/"><img src="https://cdn.simpleicons.org/nvidia/76B900" width="45" height="45"/></a> | <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/></a> | <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45" height="45"/></a> | <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/></a> |
 | .NET | NPM | Nvidia | Bootstrap | Figma | Git |
+</details>
 
 </div>
