@@ -164,7 +164,7 @@ I'm a developer and designer focused on turning complex logic into clean, functi
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raolvera&theme=tokyonight&column=7" alt="raolvera Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=raolvera&theme=tokyonight&no-bg=true&no-frame=true" alt="raolvera Trophies" />
 </p>
 
 ---
