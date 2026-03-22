@@ -119,32 +119,24 @@ I'm a developer and designer focused on turning complex logic into clean, functi
 ---
 
 ## 📘 Top Projects
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/raolvera/StreetTacos">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=StreetTacos&theme=tokyonight&title_color=32CD32&show_owner=true&description=true" height="150" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/raolvera/Pokedex">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=Pokedex&theme=tokyonight&title_color=32CD32" height="150" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/raolvera/MatchingGame">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=MatchingGame&theme=tokyonight&title_color=32CD32" height="150" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/raolvera/WunderlustMajorca">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=WunderlustMajorca&theme=tokyonight&title_color=32CD32" height="150" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/raolvera/StreetTacos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=StreetTacos&theme=tokyonight&title_color=32CD32&show_owner=true&description=true" height="150" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/raolvera/Pokedex">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=Pokedex&theme=tokyonight&title_color=32CD32" height="150" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/raolvera/MatchingGame">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=MatchingGame&theme=tokyonight&title_color=32CD32" height="150" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/raolvera/WunderlustMajorca">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=WunderlustMajorca&theme=tokyonight&title_color=32CD32" height="150" />
+  </a>
+</p>
 
 ---
 
@@ -161,11 +153,6 @@ I'm a developer and designer focused on turning complex logic into clean, functi
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=raolvera&theme=tokyo-night&color=32CD32)
 
 ---
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raolvera&theme=tokyonight&no-bg=true&no-frame=true" alt="raolvera Trophies" />
-</p>
 
 ---
 
