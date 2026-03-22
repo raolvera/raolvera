@@ -119,22 +119,32 @@ I'm a developer and designer focused on turning complex logic into clean, functi
 ---
 
 ## 📘 Top Projects
-<p align="center">
-  <a href="https://github.com/raolvera/StreetTacos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=StreetTacos&theme=tokyonight&title_color=32CD32&show_owner=true&description=true" height="120" />
-  </a>
-  <a href="https://github.com/raolvera/Pokedex">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=Pokedex&theme=tokyonight&title_color=32CD32" height="120" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/raolvera/MatchingGame">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=MatchingGame&theme=tokyonight&title_color=32CD32" height="120" />
-  </a>
-  <a href="https://github.com/raolvera/WunderlustMajorca">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=WunderlustMajorca&theme=tokyonight&title_color=32CD32" height="120" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/raolvera/StreetTacos">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=StreetTacos&theme=tokyonight&title_color=32CD32&show_owner=true&description=true" height="150" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/raolvera/Pokedex">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=Pokedex&theme=tokyonight&title_color=32CD32" height="150" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/raolvera/MatchingGame">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=MatchingGame&theme=tokyonight&title_color=32CD32" height="150" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/raolvera/WunderlustMajorca">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=raolvera&repo=WunderlustMajorca&theme=tokyonight&title_color=32CD32" height="150" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -154,7 +164,7 @@ I'm a developer and designer focused on turning complex logic into clean, functi
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raolvera&theme=tokyonight" alt="raolvera Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=raolvera&theme=tokyonight&column=7" alt="raolvera Trophies" />
 </p>
 
 ---
@@ -167,7 +177,5 @@ I'm a developer and designer focused on turning complex logic into clean, functi
 | C | C++ | C# | PHP | Node.js | MySQL |
 | <a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="45" height="45"/></a> | <a href="https://www.npmjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="45" height="45"/></a> | <a href="https://www.nvidia.com/"><img src="https://cdn.simpleicons.org/nvidia/76B900" width="45" height="45"/></a> | <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/></a> | <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45" height="45"/></a> | <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/></a> |
 | .NET | NPM | Nvidia | Bootstrap | Figma | Git |
-
----
 
 </div>
