@@ -15,7 +15,7 @@
   <a href="https://threads.net/"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/></a>
   <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://x.com/ReyOlvera520"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://raolvera.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="My Website"/></a>
+  <a href="https://raolvera.github.io/Portfolio/"><img src="https://img.shields.io/badge/MyWebsite-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="My Website"/></a>
 </p>
 
 <p align="center">
