@@ -41,7 +41,7 @@ I'm a developer and designer focused on turning complex logic into clean, functi
 
 ---
 
-<details>
+`<details>
 <summary><b>🎧 Featured Playlist</b></summary>
 <br>
 
@@ -75,7 +75,7 @@ I'm a developer and designer focused on turning complex logic into clean, functi
     </td>
   </tr>
 </table>
-</details>
+</details>`
 
 ---
 
