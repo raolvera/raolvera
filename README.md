@@ -36,8 +36,9 @@ I'm a developer and designer focused on turning complex logic into clean, functi
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BlueGoblin710/BlueGoblin710/main/Rey%20Olvera.png" alt="Rey Olvera Web Development Banner" width="100%">
+  <img width="1580" height="396" alt="lOGOr-(1)linkedin" src="https://github.com/user-attachments/assets/aec60d97-eabc-4bd7-9cfe-921c6ca40709" />
 </p>
+
 
 ---
 
