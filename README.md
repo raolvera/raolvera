@@ -1,10 +1,10 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=1&pause=1&color=DC143C&center=true&vCenter=true&width=435&lines=Rey+Olvera&repeat=false&runonce=true" alt="Rey Olvera" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=1&pause=1&color=8B0000&center=true&vCenter=true&width=435&lines=Rey+Olvera&repeat=false&runonce=true" alt="Rey Olvera" />
   <br>
   <a href="https://github.com/raolvera">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Web+Developer;Always+learning+new+things!" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=Web+Developer;Always+learning+new+things!" alt="Typing SVG"/>
   </a>
 </p>
 
