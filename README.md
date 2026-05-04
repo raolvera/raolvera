@@ -1,5 +1,3 @@
-<div align="center">
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=1&pause=1&color=32CD32&center=true&vCenter=true&width=435&lines=Rey+Olvera&repeat=false&runonce=true" alt="Rey Olvera" />
   <br>
@@ -9,7 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rey-olvera-766385246"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img width="1580" height="396" alt="lOGOr-(1)linkedin" src="https://github.com/user-attachments/assets/fd4ccd08-ea4b-4642-8668-8159e87c81f1" />
+<div align="center">
   <a href="https://youtube.com/@rebel_710"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="https://facebook.com/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://threads.net/"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/></a>
